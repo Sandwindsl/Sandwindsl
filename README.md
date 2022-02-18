@@ -7,7 +7,7 @@
 - 👋 Hi, I’m @Sandwindsl company
 - 👀 I’m interested in all the tools related to web programming
 - 🌱 I’m currently in the world of Vue, Vuetify, Laravel, Symfony and Node
-- 💞️ I’m looking to collaborate in research, development and consulting
+<!--- - 💞️ I’m looking to collaborate in research, development and consulting --->
 - 📫 How to reach me ...
 
 <!---
